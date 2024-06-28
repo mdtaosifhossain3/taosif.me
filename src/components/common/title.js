@@ -1,7 +1,7 @@
 import React from "react"
 import {
   FaGithub,
-  FaCodepen,
+  FaYoutube,
   FaLinkedinIn,
   FaMediumM,
   FaTwitter,
@@ -21,7 +21,7 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://github.com/zonayedpca"
+              href="https://github.com/mdtaosifhossain3"
             >
               <FaGithub />
             </a>
@@ -30,34 +30,34 @@ export const Title = ({ title, social, side, height }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://codepen.io/zonayedpca"
+              href="https://www.youtube.com/channel/UCPb6ODZu_fHVuqMx2INnGmw"
             >
-              <FaCodepen />
+              <FaYoutube />
             </a>
           </li>
           <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/zonayedpca"
+              href="https://www.linkedin.com/in/md-taosif-hossain-th/"
             >
               <FaLinkedinIn />
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://medium.com/@zonayedpca"
+              href="https://hashnode.com/@mdtaosifhossain3"
             >
-              <FaMediumM />
+              <FaHashnode />
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://twitter.com/zonayedpca"
+              href="https://x.com/taosif_hossain"
             >
               <FaTwitter />
             </a>

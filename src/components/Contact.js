@@ -22,7 +22,7 @@ const Contact = () => {
                 mt="25px"
                 bgColor="#00cf5d"
                 color="#fff"
-                link="mailto:zonayedpca@gmail.com"
+                link="mailto:mdtaosifhossain29@gmail.com"
               />
             </div>
           </div>
@@ -31,24 +31,25 @@ const Contact = () => {
               <li>
                 <h5>Email</h5>
                 <p>
-                  zonayedpca@gmail.com <span>(Recommended)</span>
+                  mdtaosifhossain29@gmail.com
+                  <span>(Recommended)</span>
                 </p>
               </li>
-              <li>
+              {/* <li>
                 <h5>Skype</h5>
                 <p>
-                  zonayedpca <span>(Always Available)</span>
+                  live:32e20a1d38fe5f5c <span>(Always Available)</span>
                 </p>
-              </li>
+              </li> */}
               <li>
                 <h5>Social</h5>
                 <p>
-                  Facebook/Twitter - @zonayedpca <span>(Slow response)</span>
+                  Facebook - @taosifhossain4791 <span>(Slow response)</span>
                 </p>
               </li>
               <li>
                 <h5>Address</h5>
-                <p>Gouripur, Daudkandi, Cumilla, Bangladesh - 3517</p>
+                <p>Bangla Bazar, New House Road, Modhurima, Barishal</p>
               </li>
             </ul>
           </div>

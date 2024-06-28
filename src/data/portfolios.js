@@ -1,5 +1,5 @@
 export const portfolios = {
-  Web: [
+  Flutter: [
     {
       type: "featured",
       name: "Gradienta",
@@ -84,7 +84,7 @@ export const portfolios = {
       tools: ["react", "pwa"],
     },
   ],
-  Others: [
+  React: [
     {
       type: "featured",
       name: "DevTop",

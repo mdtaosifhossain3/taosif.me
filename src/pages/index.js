@@ -8,12 +8,11 @@ import {
   Skill,
   Contact,
 } from "../components"
-import { Layout, SEO } from "../components/common"
+import { Layout } from "../components/common"
 
 const IndexPage = () => (
   <>
     <Layout>
-      <SEO title="Zonayed Ahmed" />
       <Intro />
       <About />
       <Skill />

@@ -1,4 +1,3 @@
-export * from "./seo"
 export * from "./layout"
 export * from "./container"
 export * from "./logo"

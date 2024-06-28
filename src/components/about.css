@@ -30,15 +30,15 @@
 .about-image img {
   width: 320px;
   border-radius: 10px;
-  transform: scale(0.95);
+  /* transform: scale(0.95);
   filter: grayscale(1);
-  transition: 1s all;
+  transition: 1s all; */
 }
 
-.about-image:hover img {
+/* .about-image:hover img {
   transform: scale(1);
   filter: grayscale(0);
-}
+} */
 
 @media only screen and (max-width: 768px) {
   .about {

@@ -31,13 +31,13 @@ header.compaq .container {
   flex: 1;
 }
 
-.header .logo {
-  position: relative;
+.header .logo img {
+  margin-top: 0.4rem;
 }
 
-.header .logo svg {
+/* .header .logo svg {
   width: 45px;
-}
+} */
 
 /* .header .logo .load-bg {
   position: absolute;

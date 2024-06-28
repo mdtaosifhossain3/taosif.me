@@ -2,7 +2,7 @@ import React from "react"
 
 import { Container, Title, Button } from "./common"
 
-import profile from "../assets/image/profile.jpg"
+import profile from "../assets/image/profile_pic.png"
 
 import "./about.css"
 
@@ -14,14 +14,12 @@ const About = () => {
         <div className="about">
           <div className="about-details">
             <p>
-              Hello! I'm Zonayed Ahmed, a passionate software engineer. I
-              develop web applications, mobile applications, and desktop
-              applications. My core skill is based on JavaScript and I love to
-              do most of the things using JavaScript. I love to make the web
-              more open to the world. I have graduated with a bachelor's degree
-              in Computer Science Engineering from Chandigarh University at
-              Punjab, India in 2020. I am available for any kind of job
-              opportunity that suits my interests.
+              Hello! I'm Taosif, I am a App Developer and SEO expert with a
+              passion for building apps. I am passionate about learning and
+              sharing my knowledge with others as much as possible. I love
+              solving real world problems. I pride myself on doing quality work
+              and maintaining excellent communication. I am available for any
+              kind of job opportunity that suits my interests.
             </p>
             <div className="about-action">
               <Button

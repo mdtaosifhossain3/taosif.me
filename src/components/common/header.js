@@ -5,7 +5,7 @@ import { FaBars } from "react-icons/fa"
 
 import { Container } from "./container"
 import { Logo } from "./logo"
-
+import logo from "../../assets/image/logo.png"
 import "./header.css"
 
 const Header = () => {
@@ -52,15 +52,16 @@ const Header = () => {
       <Container padding="25px 25px">
         <div className="header">
           <div className="logo">
-            <h1>
-              <Link to="/">
-                <Logo />
-              </Link>
-            </h1>
+            <Link to="/">
+              <img src={logo} height={45} />
+            </Link>
           </div>
           <div onClick={() => setMobileNav(!mobileNav)} className="mobile-nav">
             <FaBars />
           </div>
+
+          <div></div>
+
           <ul className={`menubar ${mobileNav ? "mobilenav-activate" : ""}`}>
             <li>
               <a onClick={handleScroll} href="#about">
@@ -82,15 +83,7 @@ const Header = () => {
                 Contact
               </a>
             </li>
-            <li>
-              <a
-                target="__blank"
-                rel="noopener noreferrer"
-                href="https://with.zonayed.me"
-              >
-                Blog
-              </a>
-            </li>
+
             <li>
               <a
                 className="btn-download"

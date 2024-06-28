@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Full Stack Developer`,
+    title: `App Developer`,
     description: `My personal portfolio website`,
-    author: `@zonayedpca`,
+    author: `@taosif`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -11,13 +11,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `zonayed.me`,
-        short_name: `zonayed.me`,
+        name: `taosif.me`,
+        short_name: `taosif.me`,
         start_url: `/`,
         background_color: `#111a28`,
         theme_color: `#1d293a`,
         display: `minimal-ui`,
-        icon: `src/assets/image/favicon.png`, // This path is relative to the root of the site.
+        icon: `src/assets/image/logo.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

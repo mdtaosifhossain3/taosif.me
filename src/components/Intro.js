@@ -12,12 +12,12 @@ const Intro = () => {
         <div className="intro">
           <div className="intro-text">
             <p>Hello! I am</p>
-            <h1>Zonayed Ahmed</h1>
-            <h3>Full Stack Developer</h3>
+            <h1>Muhammad Taosif</h1>
+            <h3>App Developer</h3>
             <ul>
-              <li>Web Developer</li>
+              <li>Flutter Developer</li>
+              <li>React Native Developer</li>
               <li>Programmer</li>
-              <li>Software Engineer</li>
             </ul>
             <div className="action">
               <Button

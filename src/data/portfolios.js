@@ -2,29 +2,27 @@ export const portfolios = {
   Flutter: [
     {
       type: "featured",
-      name: "Gradienta",
-      image: require("./image/gradienta.jpg"),
+      name: "ChatBot Ai",
       description:
-        "A Collection of free Multicolor CSS, JPG, PNG, SVG Gradients with a Gradienta Editor",
-      demo: "https://gradienta.io",
-      tools: ["gatsby", "netlify", "ga", "forestry"],
+        "This project is a mobile application similar to GeminiAI, developed using Flutter. It includes features such as Firebase for database management, Provider for state management, animations, auto-scroll, authentication, and support for light and dark modes.",
+  source: "https://github.com/devsonket/devsonket.github.io",
+      tools: ["firebase", "provider"],
     },
     {
       type: "featured",
-      name: "DevSonket",
-      image: require("./image/devsonket.jpg"),
+      name: "E-Wallet",
       description:
-        "A Collection of Bengali Cheatsheets for the developers, completely open-source",
-      demo: "https://devsonket.com",
-      source: "https://github.com/devsonket/devsonket.github.io",
-      tools: ["gatsby", "json", "travis ci"],
+        "A simple and minimalistic e-wallet app.",
+  
+      source: "https://github.com/mdtaosifhossain3/flutter-paypal-clone",
+      tools: ["firebase", "GetX"],
     },
     {
       type: "featured",
-      name: "js.zonayed.me",
-      image: require("./image/js.zonayed.me.png"),
+      name: "E-Commerce App",
+  
       description:
-        "Learn Practical use case of JavaScript in your everyday life, entirely in Bengali",
+        "an Ecommerce App",
       demo: "https://zonayed.js.org",
       source: "https://github.com/zonayedpca/js.zonayed.me",
       tools: ["gatsby", "utterances", "travis ci"],

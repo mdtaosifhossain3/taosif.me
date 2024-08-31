@@ -32,7 +32,7 @@
 }
 
 .portfolio-items > * {
-  margin: 15px;
+  margin: 14px;
   flex: 1 1 calc(100% / 3 - 30px);
   background-color: #1d293a;
   color: rgba(255, 255, 255, 0.85);

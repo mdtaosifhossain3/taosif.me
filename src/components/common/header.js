@@ -89,7 +89,7 @@ const Header = () => {
                 className="btn-download"
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/zonayedpca/zonayed.me/raw/master/src/data/file/MyResume.pdf"
+                href="https://github.com/mdtaosifhossain3/taosif.me/blob/11574c33b4c0e55df9e70f7cb5268767c3879e26/cc.pdf"
               >
                 Resume
               </a>

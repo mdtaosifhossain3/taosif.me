@@ -15,7 +15,7 @@ export const portfolios = {
       name: "E-Wallet",
       image:
         "https://raw.githubusercontent.com/mdtaosifhossain3/flutter-e-wallet-app/main/e-wallet-app-mockup.jpeg",
-      description: "A simple and minimalistic e-wallet app.",
+      description: "This is a Flutter-based e-wallet application that allows users to manage their finances seamlessly.",
 
       source: "https://github.com/mdtaosifhossain3/flutter-paypal-clone",
       tools: ["firebase", "GetX"],
@@ -23,7 +23,7 @@ export const portfolios = {
      {
       type: "featured",
       image:
-        "https://github.com/mdtaosifhossain3/flutter-mini-ecommerce/blob/972b1fd97b847dffb7ca12ecf097007336a7f5f9/ecommerce_mockup.png",
+        "https://raw.githubusercontent.com/mdtaosifhossain3/flutter-mini-ecommerce/f016b7a5e0dd88b7c4913233ef8caeed01b25d38/ecommerce_mockup.png",
       name: "Ecommerce App",
          source: "https://github.com/mdtaosifhossain3/flutter-mini-ecommerce",
       description:
@@ -56,7 +56,7 @@ export const portfolios = {
       type: "featured",
       name: "Tic Tac Toe App",
       image:
-        "https://github.com/mdtaosifhossain3/flutter-tic-tac-toe-app/blob/5372b8953abe1e0186dcb4e080ea9b710a6bda5a/tic-tak-toe.png",
+        "https://raw.githubusercontent.com/mdtaosifhossain3/flutter-tic-tac-toe-app/91a5d30023d91c6d37a2723dca4ad3dbf9acd6b3/tic-tak-toe.png",
       description:
         "This project is a simple yet interactive Tic-Tac-Toe game built with Flutter. Users can enjoy playing against an AI opponent.",
 
@@ -82,7 +82,7 @@ export const portfolios = {
     {
       type: "regular",
       name: "Note App",
-      description: "The Flutter Note App with SQLite allows users to create, edit, delete, and save notes locally on their device. It uses SQLite for persistent offline data storage, enabling note retrieval even when the app is closed.",
+      description: "The Flutter Note App with SQLite allows users to create, edit, delete, and save notes locally on their device.",
       source: "https://github.com/mdtaosifhossain3/flutter-note-app-with-sqLite",
       tools: ["firebase", "sqLite"],
     },

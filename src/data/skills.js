@@ -1,14 +1,12 @@
 export const skills = {
   App: [
     { name: "Flutter", percent: 90 },
-    { name: "React Native", percent: 90 },
     { name: "Firebase", percent: 75 },
     { name: "Bloc", percent: 80 },
     { name: "Node JS", percent: 80 },
-    { name: "MongoDB", percent: 90 },
+  { name: "sqLite", percent: 80 },
   ],
   Others: [
-    { name: "Redux", percent: 80 },
     { name: "GetX", percent: 80 },
     { name: "Provider", percent: 80 },
     { name: "Hive", percent: 80 },

@@ -87,22 +87,5 @@ export const portfolios = {
       tools: ["firebase", "sqLite"],
     },
   ],
-  React: [
-    {
-      type: "regular",
-      name: "Roll the dice",
-      description: "Roll the dice app",
-      source:
-        "https://github.com/mdtaosifhossain3/react-native-roll-the-dice-app",
-      tools: ["JS", "react native"],
-    },
-    {
-      type: "regular",
-      name: "Bg Changer App",
-
-      description: "A bg changer app",
-      source: "https://github.com/mdtaosifhossain3/react-native-bgchanger-app",
-      tools: ["react native", "JS"],
-    },
-  ],
+ 
 }

@@ -4,6 +4,7 @@ export const skills = {
     { name: "Firebase", percent: 75 },
     { name: "Bloc", percent: 80 },
     { name: "Node JS", percent: 80 },
+     { name: "Supabase", percent: 80 },
   { name: "sqLite", percent: 80 },
   ],
   Others: [

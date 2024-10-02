@@ -16,7 +16,6 @@ const Intro = () => {
             <h3>App Developer</h3>
             <ul>
               <li>Flutter Developer</li>
-              <li>React Native Developer</li>
               <li>Programmer</li>
             </ul>
             <div className="action">

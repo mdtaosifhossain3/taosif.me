@@ -2,8 +2,8 @@ import React from "react"
 
 import { Container, Title, Button } from "./common"
 
-import profile from "../assets/image/profile_pic.png"
-
+//import profile from "../assets/image/profile_pic.png"
+import profile from "../assets/image/about.png"
 import "./about.css"
 
 const About = () => {

@@ -4,8 +4,8 @@ import { Container, Title, Button } from "./common"
 
 import "./intro.css"
 
-import portfolio from "../assets/image/portfolio.png"
-
+//import portfolio from "../assets/image/portfolio.png"
+import portfolio from "../assets/image/taosif.png"
 const Intro = () => {
   return (
     <div className="intro-area">
